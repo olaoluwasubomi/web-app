@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv-semgrep/
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local database
+database.db
+
+# Generated security scan reports
+semgrep-results.json
+
+# Environment variables
+.env
